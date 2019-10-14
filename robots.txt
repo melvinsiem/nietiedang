@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeraemeish.mosshouse.ie/sitemap.xml
